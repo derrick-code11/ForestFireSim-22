@@ -2,7 +2,7 @@
 
 ## Description
 
-A dynamic forest fire simulation and environmental dataset visualization made developed with Python
+A dynamic forest fire simulation and environmental dataset visualization developed with Python
 
 ## Libraries Used
 
