@@ -1,0 +1,3 @@
+Over the past 40 years, the average number of acres of forested land consumed by wildfire each year in the United States has increased by 1,000% according to National Geographic.
+A report in March, 2022 by the American Association for the Advancement of Science revealed more fires occurred in the past 13 years than the previous 20 years. 
+This simulator shows how wildfires cover significant acres of land.
