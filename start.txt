@@ -1,0 +1,3 @@
+The simulation is now running. 
+Watch as the fires spread through the forest.
+When the simulation stops running, click on the canvas for the next scene to appear.
